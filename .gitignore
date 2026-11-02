@@ -1,0 +1,5 @@
+__pycache__/
+.venv/
+.env
+data/
+setup_db_user.sql
